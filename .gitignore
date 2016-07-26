@@ -1,0 +1,6 @@
+.terraform/
+azure.tf
+*.plan
+*.tfstate
+*.backup
+*.orig
